@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    
+    background-color: #1A1B21;
+  
+}
+
+.contenar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.box {
+    width: 300px;
+    height: 1170px;
+    border: 2px solid rgb(14, 14, 14);
+background-color:#23252C;
+}
+img {
+    width: 100%;
+    height: 40%;
+}
+.imag{
+      margin-top: 45px;
+}
+.smphoto{
+    margin-top: 230px;
+  
+}
+
+.del {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: "Sofia";
+}
+
+.heding {
+    color: #fff;
+   
+}
+
+.subheding {
+    color: rgb(250, 143, 2);
+}
+
+.ssheding {
+    color: #fff;
+}
+
+.imgg {
+    width: 20px;
+    padding: 6px;
+}
+.btns {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    display: flex;
+    justify-content: center;
+align-items: center;
+
+    background-color: #fff;
+    font-size: 15px;
+    border-radius: 15px;
+    width: 100px;
+    
+
+}
+
+.main {
+    color: #fff;
+    padding: 20px;
+
+}
+.main2{
+    color: #fff;
+    padding: 20px;
+}
+footer{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 15px;
+    background-color: black;
+}
+.imges{
+    width: 35px;
+    height: 35px;
+}
+a{
+    text-decoration: none;
+}
